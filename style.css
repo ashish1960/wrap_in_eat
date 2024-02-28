@@ -33,7 +33,7 @@ body{
     height: auto;
   }
   .display-4 {
-    font-size: 4rem; /* Adjust the heading font size */
+    font-size: 3rem; /* Adjust the heading font size */
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
 
